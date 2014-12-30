@@ -1,0 +1,6 @@
+c:\users\mehmet\documents\visual studio 2012\Projects\12253021HW0\12253021HW0\bin\Debug\12253021HW0.exe.config
+C:\Users\mehmet\Documents\Visual Studio 2012\Projects\12253021HW0\12253021HW0\obj\Debug\12253021HW0.csprojResolveAssemblyReference.cache
+C:\Users\mehmet\Documents\Visual Studio 2012\Projects\12253021HW0\12253021HW0\bin\Debug\12253021HW0.exe
+C:\Users\mehmet\Documents\Visual Studio 2012\Projects\12253021HW0\12253021HW0\bin\Debug\12253021HW0.pdb
+C:\Users\mehmet\Documents\Visual Studio 2012\Projects\12253021HW0\12253021HW0\obj\Debug\12253021HW0.exe
+C:\Users\mehmet\Documents\Visual Studio 2012\Projects\12253021HW0\12253021HW0\obj\Debug\12253021HW0.pdb
